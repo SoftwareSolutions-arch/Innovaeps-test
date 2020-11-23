@@ -1,0 +1,24 @@
+table {
+  width: 100%;
+}
+
+
+th,td{
+    background: white;
+    text-align: center !important;
+}
+
+.mat-header-cell {
+    text-align: center !important;
+}
+
+.top-container{
+    margin-top: 16px;
+    padding: 16px;
+}
+
+.bottom-btn{
+    display: block;
+    margin: auto;
+    margin-top: 16px;
+}
